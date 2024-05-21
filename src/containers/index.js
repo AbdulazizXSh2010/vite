@@ -1,0 +1,1 @@
+export default [{routes: "/",   components: "<h1>Hello World</h1>"}]
